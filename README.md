@@ -1,0 +1,2 @@
+# gekko
+termux user
